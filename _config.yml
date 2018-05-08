@@ -12,7 +12,7 @@ github_repo: "https://github.com/zhiyu1999/zhiyu1999.github.io.git" # you code r
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "未長夜痛哭著，不足與語人生。"
-sidebar-avatar: /img/avatar-by.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/avatar-by.jpeg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
