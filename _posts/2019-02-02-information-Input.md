@@ -93,7 +93,8 @@ tags:
 比上一副图片，额外增加第四块屏幕投影仪。如下：
 ![显示屏连接图](https://ws3.sinaimg.cn/large/006tNc79ly1g01a4z42k9j31140rmack.jpg)
 
-屏幕：观看 imbd 高分电影、YouTube、TED、NHK纪录片。如图：《青蛇》
+### 4.0.3 外接投影仪屏幕
+观看 imbd 高分电影、YouTube、TED、NHK纪录片。如图：《青蛇》
 ![](https://ws3.sinaimg.cn/large/006tNc79ly1g01appiagoj31400u0abf.jpg)
 
 *****
