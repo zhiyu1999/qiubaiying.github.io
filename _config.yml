@@ -1,10 +1,10 @@
 # Site settings
 标题: ZY Blog 
-SEOTitle: 止語的博客 | 止語輕行
+SEOTitle: 寿之的博客 | 止語輕行
 header-img: img/post-bg-desk.jpg
 email: cocotao00100@gmail.com
 description: "於諸病苦，為作良醫；與暗夜中，為作光明."
-keyword: "ZY, ZY Blog, 止語的博客, 止語輕行, 寿之, iOS, Apple, iPhone"
+keyword: "ZY, ZY Blog, 寿之的博客, 止語輕行, 寿之, iOS, Apple, iPhone"
 url: "https://zhiyu1999.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/zhiyu1999/zhiyu1999.github.io.git" # you code repository
