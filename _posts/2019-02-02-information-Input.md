@@ -86,7 +86,7 @@ tags:
 > 显军的建议：借鉴 Unix 设计哲学里非常重要的「管道」概念，信息流就变得简单多了。
 ![管道设计](https://ws1.sinaimg.cn/large/006tNc79ly1g056vfq06vj318d04xt9e.jpg)
 
-和H菌耐心的指导下。为画图软件为文末推荐的：ProcessOn。历时5h，重构了逻辑图。
+在H菌耐心的指导下。画图软件为文末她推荐的：ProcessOn。历时5h，重构了逻辑图。
 ![信息食用图谱 2.1](https://ws4.sinaimg.cn/large/006tNc79ly1g056izw1dcj30n80vntfo.jpg)
 
 为什么耗时这么长呢？因为逻辑图比较复杂，网页端就卡住了。我对配色也木有研究，调整得眼睛都快瞎了。。
