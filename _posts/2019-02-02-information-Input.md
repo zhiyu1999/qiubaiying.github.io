@@ -46,9 +46,9 @@ tags:
 ![TED: Information is food](https://ws4.sinaimg.cn/large/006tNc79ly1g00t0hud3xj30qa0g8764.jpg)
 - [点击观看《TED: Information is food》](https://www.ted.com/talks/jp_rangaswami_information_is_food)
 
-除了借用断舍离的方法，进行信息节食，或者选取更优质并适合自身发展的信息食用之外。
+除了断舍离：信息节食，或更换优质信息源食用。
 
-我觉得更重要的是：用更加高效的方法加工、处理、食用、消化、吸收信息
+更重要的是：用更高效的方法加工、处理、食用、消化、吸收信息
 - 不因为暴饮暴食，让大脑信息过载、消化不良
 - 不因为偏食厌食，让大脑信息贫乏，营养不良
 
