@@ -10,9 +10,9 @@ tags:
     - Blog
 ---
 
-## 共创优质信息源清单 you are what you eat！
+## 共创优质信息源清单：you are what you eat！
 
-### 食物溯源vs信息溯源
+### 1.0 食物溯源vs信息溯源
 
 每天接收到的信息质量，会反向塑造你的灵魂。这里借用电影《人体蜈蚣》的隐喻，少接触 n 手信源，有条件就追溯信息的发布源头。
 
@@ -25,7 +25,7 @@ tags:
 ********
 
 
-### 日常信息入口[下载地址 Toby for Chrome ](https://chrome.google.com/webstore/detail/toby-for-chrome/hddnkoipeenegfoeaoibdmnaalmgkpip)
+### 1.1日常信息入口[下载地址 Toby for Chrome ](https://chrome.google.com/webstore/detail/toby-for-chrome/hddnkoipeenegfoeaoibdmnaalmgkpip)
 
 作为 Chrome 日常信息打开的主入口
 
@@ -51,7 +51,7 @@ tags:
 
 简要梳理下目前的优质信息源清单：
 
-## [Home - information] 截至2019-02-10 
+## 2.0 [Home - information] 截至2019-02-10 
 
 - [Reeder 3 for Mac](http://reederapp.com/mac/)（ iOS 及 Mac 下载同步）
 	- 稍后阅读 [Instapaper](https://www.instapaper.com) 里的文章
@@ -99,9 +99,7 @@ tags:
 
 *******
 
-
-
-## 行动倡议：共创优质信息源清单
+## 3.0 行动倡议：共创优质信息源清单
 
 ### 标准模板跟
 
