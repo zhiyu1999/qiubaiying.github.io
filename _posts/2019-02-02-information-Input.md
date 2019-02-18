@@ -175,14 +175,17 @@ PS：为什么这次改版耗时这么长呢？因为逻辑图比较复杂，网
 
 ## 投稿地址
 
-- GitHub：
-     + [2w[投稿]信息素养评估](https://github.com/zhiyu1999/zhiyu1999.github.io/issues/7)
-     + [2w[投稿]信息食谱](https://github.com/zhiyu1999/zhiyu1999.github.io/issues/8)
-- Email：cocotao00100@gmail.com
-- WeChat：dikuyao
 
 - 本章节建议反馈
-	- [2w[讨论]信息素养谈（一）同侪反馈汇总](https://github.com/zhiyu1999/zhiyu1999.github.io/issues/1)
+	- [[讨论]信息素养谈（一）同侪反馈汇总](https://github.com/zhiyu1999/zhiyu1999.github.io/issues/1)
+- GitHub 投稿：
+     + [[投稿]信息素养评估](https://github.com/zhiyu1999/zhiyu1999.github.io/issues/7)
+     + [[投稿]信息食谱](https://github.com/zhiyu1999/zhiyu1999.github.io/issues/8)
+- 邮件和私信投稿
+	- Email：cocotao00100@gmail.com
+-	 WeChat：dikuyao
+
+
 
 *******
 

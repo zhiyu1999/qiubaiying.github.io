@@ -122,13 +122,17 @@ tags:
 
 欢迎同侪来共创优质信源清单，发起开源项目，进行维护~
 
-- 投稿地址
-	- GitHub：[3w[共创]优质信息源清单](https://github.com/zhiyu1999/zhiyu1999.github.io/issues/5)
-	- email：cocotao00100@gmail.com
-	- WeChat：dikuyao
+## 投稿地址
 
-- 第二章文章建议处
-	- [3w[讨论]信息素养谈（二）同侪反馈处](https://github.com/zhiyu1999/zhiyu1999.github.io/issues/2)
+
+- 本章建议反馈
+	- [[讨论]信息素养谈（二）同侪反馈处](https://github.com/zhiyu1999/zhiyu1999.github.io/issues/2)
+- GitHub 投稿：
+	- GitHub：[[共创]优质信息源清单](https://github.com/zhiyu1999/zhiyu1999.github.io/issues/5)
+- 邮件和私信投稿
+	- Email：cocotao00100@gmail.com
+-	 WeChat：dikuyao
+
 
 ## 参考资料
 
