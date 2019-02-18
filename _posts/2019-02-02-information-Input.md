@@ -211,8 +211,8 @@ PS：为什么这次改版耗时这么长呢？因为逻辑图比较复杂，网
 - 有了初稿之后，再慢慢优化迭代。
 - 推荐画图网站：[ProcessOn - 免费在线作图](https://www.processon.com/)
 > 分享文章中制作的图谱模板，大家直接复用就好
-    - 信息素养评估：https://www.processon.com/view/link/5c64d062e4b048f108e90fa0 密码：q4J8
-    - 信息食谱：https://www.processon.com/view/link/5c63e13de4b025fe7c95cab8 密码：ALZg
+    - [信息素养评估](https://www.processon.com/view/link/5c64d062e4b048f108e90fa0) 密码：q4J8
+    - [信息食谱](https://www.processon.com/view/link/5c63e13de4b025fe7c95cab8) 密码：ALZg
 - 大妈推荐用 PlantUML 之图形脚本工具
 > 更加高效的方法，但是学习成本会较高。适合程序猿
     - 将逻辑关系就用文本进行描述, 图形化以及排版,交给工具自动进行,
