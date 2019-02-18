@@ -174,6 +174,14 @@ PS：为什么这次改版耗时这么长呢？因为逻辑图比较复杂，网
 
 另外有好的建议，欢迎 WeChat 或 cocotao00100@gmail.com ~ 
 
+- 投稿地址
+	- GitHub：[3w[共创]优质信息源清单](https://github.com/zhiyu1999/zhiyu1999.github.io/issues/5)
+	- email：cocotao00100@gmail.com
+	- WeChat：dikuyao
+
+- 第二章文章建议处
+	- [3w[讨论]信息素养谈（二）同侪反馈处](https://github.com/zhiyu1999/zhiyu1999.github.io/issues/2)
+
 
 *******
 
