@@ -183,7 +183,7 @@ PS：为什么这次改版耗时这么长呢？因为逻辑图比较复杂，网
      + [[投稿]信息食谱](https://github.com/zhiyu1999/zhiyu1999.github.io/issues/8)
 - 邮件和私信投稿
 	- Email：cocotao00100@gmail.com
--	 WeChat：dikuyao
+	- WeChat：dikuyao
 
 
 

@@ -131,7 +131,7 @@ tags:
 	- GitHub：[[共创]优质信息源清单](https://github.com/zhiyu1999/zhiyu1999.github.io/issues/5)
 - 邮件和私信投稿
 	- Email：cocotao00100@gmail.com
--	 WeChat：dikuyao
+ 	- WeChat：dikuyao
 
 
 ## 参考资料
