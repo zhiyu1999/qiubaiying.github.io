@@ -197,20 +197,20 @@ PS：为什么这次改版耗时这么长呢？因为逻辑图比较复杂，网
 
 ![](https://ws4.sinaimg.cn/large/006tNc79ly1g01bebzeszj30wt0u00ya.jpg)
 
-这里借用下执行意图：
+如果你看到这里，有点跃跃欲试，但认知过载引发了行动瘫痪，所谓心有余而力不足。
+
+没关系，休息5分钟，然后我们借用下执行意图：
 - if 有想法，then 拿出纸和笔 ~ 
 - 有了初稿之后，再慢慢优化迭代。
 - 推荐画图网站：[ProcessOn - 免费在线作图](https://www.processon.com/)
-- 大妈推荐用 PlantUML 之图形脚本工具,
+> 分享文章中制作的图谱模板，大家直接复用就好
+    - 信息素养评估：https://www.processon.com/view/link/5c64d062e4b048f108e90fa0 密码：q4J8
+    - 信息食谱：https://www.processon.com/view/link/5c63e13de4b025fe7c95cab8 密码：ALZg
+- 大妈推荐用 PlantUML 之图形脚本工具
+> 更加高效的方法，但是学习成本会较高。适合程序猿
     - 将逻辑关系就用文本进行描述, 图形化以及排版,交给工具自动进行,
     - 可以提高表述/修改/解读效率...
 
-## 共享资料
-
-> 分享文章中制作的图谱模板，大家直接复用就好（我之前的方法太笨了，没有大妈提供的解法高效）：
-
-- 信息素养评估：https://www.processon.com/view/link/5c64d062e4b048f108e90fa0 密码：q4J8
-- 信息食谱：https://www.processon.com/view/link/5c63e13de4b025fe7c95cab8 密码：ALZg
 
 ## 投稿地址
 
