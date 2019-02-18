@@ -176,7 +176,7 @@ PS：为什么这次改版耗时这么长呢？因为逻辑图比较复杂，网
 
 - 投稿地址
 	- GitHub：[3w[共创]优质信息源清单](https://github.com/zhiyu1999/zhiyu1999.github.io/issues/5)
-	- email：cocotao00100@gmail.com
+	- Email：cocotao00100@gmail.com
 	- WeChat：dikuyao
 
 - 第二章文章建议处
