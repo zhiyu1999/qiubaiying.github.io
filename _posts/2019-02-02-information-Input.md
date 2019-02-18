@@ -166,22 +166,23 @@ PS：为什么这次改版耗时这么长呢？因为逻辑图比较复杂，网
     - 将逻辑关系就用文本进行描述, 图形化以及排版,交给工具自动进行,
     - 可以提高表述/修改/解读效率...
 
-分享文章中制作的图谱模板，大家直接复用就好（我之前的方法太笨了，没有大妈提供的解法高效）：
+## 共享资料
+
+> 分享文章中制作的图谱模板，大家直接复用就好（我之前的方法太笨了，没有大妈提供的解法高效）：
 
 - 信息素养评估：https://www.processon.com/view/link/5c64d062e4b048f108e90fa0 密码：q4J8
 - 信息食谱：https://www.processon.com/view/link/5c63e13de4b025fe7c95cab8 密码：ALZg
 
+## 投稿地址
 
-另外有好的建议，欢迎 WeChat 或 cocotao00100@gmail.com ~ 
+- GitHub：
+     + [2w[投稿]信息素养评估](https://github.com/zhiyu1999/zhiyu1999.github.io/issues/7)
+     + [2w[投稿]信息食谱](https://github.com/zhiyu1999/zhiyu1999.github.io/issues/8)
+- Email：cocotao00100@gmail.com
+- WeChat：dikuyao
 
-- 投稿地址
-	- GitHub：[3w[共创]优质信息源清单](https://github.com/zhiyu1999/zhiyu1999.github.io/issues/5)
-	- Email：cocotao00100@gmail.com
-	- WeChat：dikuyao
-
-- 第二章文章建议处
-	- [3w[讨论]信息素养谈（二）同侪反馈处](https://github.com/zhiyu1999/zhiyu1999.github.io/issues/2)
-
+- 本章节建议反馈
+	- [2w[讨论]信息素养谈（一）同侪反馈汇总](https://github.com/zhiyu1999/zhiyu1999.github.io/issues/1)
 
 *******
 
