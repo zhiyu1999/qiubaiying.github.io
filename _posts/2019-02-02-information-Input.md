@@ -43,7 +43,7 @@ tags:
 
 > JP Rangaswami 在 TED 的演讲——信息即食物。针对现在的食物富足，我们发展出了许多健康的饮食方式，由此启发，我决定求助生活中一直践行的极简主义，实行「信息节食」。
 
-![TED: Information is food](https://ws4.sinaimg.cn/large/006tNc79ly1g00t0hud3xj30qa0g8764.jpg)
+![TED: Information is food](/imgs/2.jpeg)
 - [点击观看《TED: Information is food》](https://www.ted.com/talks/jp_rangaswami_information_is_food)
 
 除了断舍离：信息节食，或更换优质信息源食用。
@@ -58,7 +58,7 @@ tags:
 
 受如何高效食用信息的想法启发，我回顾了自身发展，不同时期的信息食用方式：
 
-![信息素养评估](https://ws3.sinaimg.cn/large/006tKfTcly1g05s0fazixj314z0noq6x.jpg)
+![信息素养评估](/imgs/3.jpeg)
 12年-15年，可以看到的是在没有信息素养这个概念期间，大量信息都流失掉了。也就是没有好的餐具和加工方式的情况下，大量信息的营养都流失掉，并没有被自己消化吸收。
 
 尤其15年-16年，完全放弃电脑的那段暗黑岁月，又恰逢处在一个同侪氛围很棒，信息高密度的创业社区里，每天都会激发并交互大量信息，我几乎以原始人的方式，完成了这次肉机升级（大脑比喻成计算机，我的 CPU 应该从单核升到了双核吧。这么安慰自己）但是依然流失了很多高质量的信息，等同于信息营养过剩，我却只吸收了一小部分。
